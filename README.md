@@ -4,6 +4,8 @@ Simple pygame random ball falling game. Every ten times the ball hits the ground
 
 (So it gets exponentially faster...)
 
+Note: You must have [Pygame](https://www.pygame.org/news "pygame") for this game to work.
+
 ## Controls:
 
 Arrow keys to move side to side.
